@@ -1,0 +1,24 @@
+
+h1{
+  font-family: 'Lobster', sans-serif;
+  font-size: 8rem;
+  color:#FFF70FFF;
+  text-align: center;
+}
+.dice{
+   display:inline-block;
+   margin: 20px;
+   text-align: center;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size:3rem;
+  color:#FFF70FFF;
+  
+}
+ img{
+   height:140px;
+}
+body{
+  background-color: #232931;
+}
